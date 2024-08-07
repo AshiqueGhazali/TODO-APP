@@ -1,0 +1,48 @@
+.TodoContainer {
+    width: 70vw;
+    margin: 5em  auto;
+}
+
+.header{
+    font-size: 2em;
+    text-align: center;
+    background: #798b42 ;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 1em;
+
+}
+
+.inputContainer{
+    padding: 0.5em;
+}
+
+.btn-custom {
+    background-color: #ff5733;
+    border-color: #ff5733; 
+    color: white; 
+    border: none;
+    border-radius: 0;
+}
+.btn-custom:hover {
+    background-color: #e04e2e; 
+    border-color: #e04e2e; 
+}
+
+.taskLis {
+    margin-top: 5em;
+    background-color: #798b42;
+}
+
+.custom-list-group {
+    background-color: #2f3e01; 
+  }
+  
+  .custom-list-group .list-group-item {
+    background-color: inherit; 
+    color: white;
+  }
+
+  .custom-edit-btn{
+    margin-right: .5em;
+  }
